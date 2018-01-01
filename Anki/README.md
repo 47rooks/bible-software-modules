@@ -6,4 +6,4 @@ Note these decks use a note type, PsalmsInAYear which displays the data the way 
 
 ## Decks
 
-  + JosephusLife.apkg, all the words from Josephus' Life which do not appear in the NA 28 Greek New Testament.
+  + ```Josephus Life.apkg```, all the words from Josephus' Life which do not appear in the NA 28 Greek New Testament.
